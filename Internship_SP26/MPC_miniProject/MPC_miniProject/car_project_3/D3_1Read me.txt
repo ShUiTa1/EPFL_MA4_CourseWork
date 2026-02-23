@@ -1,0 +1,10 @@
+This is a readme document for deliverable 3.1
+
+In this file folder we contain basic class files and Deliverable_3_1.m to show the successful constructed MPC controller.
+
+- Design procedure could be found in MpcControl_lon.m and MpcControl_lat.m subclass files.
+
+- The plot code for terminal set in inserted in MpcControl_lat.m file.
+
+- To run the simulation and reproduce the results, please run Deliverable_3_1.m file.
+
