@@ -1,0 +1,15 @@
+## Ignore Meta-learning venv 
+# Python venvs
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+
+## Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+## Ignore Papers
+Meta_Learning_for_AS/**/*.pdf
